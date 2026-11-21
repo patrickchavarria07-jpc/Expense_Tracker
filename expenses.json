@@ -1,0 +1,30 @@
+[
+  {
+    "id": "b205df6361ef4644a36d42564f479947",
+    "name": "Jan",
+    "centavos": 50000,
+    "category": "Food",
+    "date": "2026-11-20 17:55"
+  },
+  {
+    "id": "968cfd2316db46959a0b67cf5080f4bc",
+    "name": "Jan",
+    "centavos": 500000,
+    "category": "Bills",
+    "date": "2026-11-20 17:56"
+  },
+  {
+    "id": "9e33cb9f55774d68b5575552e14caf73",
+    "name": "Jan",
+    "centavos": 34200,
+    "category": "Other",
+    "date": "2026-11-20 17:56"
+  },
+  {
+    "id": "b67f69677bb744e7b63fe1741569397a",
+    "name": "Pat",
+    "centavos": 221200,
+    "category": "Food",
+    "date": "2026-11-20 17:56"
+  }
+]
