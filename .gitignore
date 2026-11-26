@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.mypy_cache/
+tracker.lock
+expenses.backup.json
+tracker.log
+tmp*
